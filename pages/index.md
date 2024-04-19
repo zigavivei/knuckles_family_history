@@ -1,6 +1,6 @@
 ---
-layout: home-infographic
-title: Home
+layout: custom-home
+title: Family History and CollectionBuilder
 permalink: /
 ---
 
